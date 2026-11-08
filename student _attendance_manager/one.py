@@ -1,8 +1,4 @@
-"""PS No. 28 - Student Attendance Manager (console, one file).
-
-Each student is a dictionary: {"roll", "name", "held", "attended"}.
-Students are kept in a list and saved in attendance.txt as:  roll|name|held|attended
-"""
+"""PS No. 28 - Student Attendance Manager."""
 
 DATA_FILE = "attendance.txt"
 MINIMUM_PERCENTAGE = 75
