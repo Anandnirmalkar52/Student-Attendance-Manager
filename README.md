@@ -90,19 +90,6 @@ Example:
 
 The test cases run in order on the same records.
 
----
-
-## Project Files
-
-```
-student_attendance_manager.py     the whole program
-attendance.txt     saved data (created automatically)
-README.md          this file
-summary.md         how the program runs and problems faced
-```
-
----
-
 ## Limitations
 
 - Attendance is stored only as totals (held and attended), not per date, so a single mark cannot be undone or edited.
